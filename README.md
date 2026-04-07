@@ -1,4 +1,8 @@
 # LLM-based agents (Software project; WS 26)
-Interactive agents, which autonomously complete tasks through interactions with their environment, can assist humans in various domains of their daily lives. LLM-based agents are AI system that uses a Large Language Model (LLM) to solve a complex task, including task understanding, solution planning, and executing the task by interacting with external tools, APIs, databases, etc. \\
+Interactive agents, which autonomously complete tasks through interactions with their environment, can assist humans in various domains of their daily lives. LLM-based agents are AI system that uses a Large Language Model (LLM) to solve a complex task, including task understanding, solution planning, and executing the task by interacting with external tools, APIs, databases, etc. \
 
 The goal of this software project is to identify a relevant use case for such software and implement and evaluate an agent for complex multi-step tasks. Our implementation will be based on the [MCP (Model Context Protocol) protocol](https://modelcontextprotocol.io/docs/getting-started/intro), an open-source protocol for connecting LLMs to external components, and the [LangChain/LangGraph](https://docs.langchain.com/oss/python/langchain/overview) framework for implementing tge agent workflow.
+
+'''Instructor''': Mareike Hartmann (mareikeh@coli.uni-saarland.de)
+
+### Registration
