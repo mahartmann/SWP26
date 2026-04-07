@@ -3,7 +3,7 @@ Interactive agents, which autonomously complete tasks through interactions with 
 
 The goal of this software project is to identify a relevant use case for such software and implement and evaluate an agent for complex multi-step tasks. Our implementation will be based on the [MCP (Model Context Protocol) protocol](https://modelcontextprotocol.io/docs/getting-started/intro), an open-source protocol for connecting LLMs to external components, and the [LangChain/LangGraph](https://docs.langchain.com/oss/python/langchain/overview) framework for implementing tge agent workflow.
 
-**Instructor**: Mareike Hartmann (mareikeh@coli.uni-saarland.de)
+**Instructor**: Mareike Hartmann (mareikeh@coli.uni-saarland.de)\
 **Time & Place**: Mondays, 12:15-13:45, C7.2, Seminarraum -1.05
 
 
