@@ -23,6 +23,7 @@ The goal of this software project is to identify a relevant use case for such so
 - send me an email (mareikeh@coli.uni-saarland.de) until end of day (April 13), including:
   - name
   - study programme
+  - why you want/need to take this course
   - why are you interested in LLM-based agents
   - programming experience
   - experience with LLM-based agents in professional or private life (if are you using them and how)
